@@ -1,0 +1,55 @@
+
+:root {
+  --base-bg: #1C1C1C; 
+  --con-bg: #23252C; /* Container-background */
+
+  /* Cards */
+  --l-card-bg: #F5F5F5; /* light-card-background */
+  --d-card-bg: #1A1B21; /* dark-card-background */
+
+  /* Buttons */
+  --l-btn-bg: #D1D5DB; /* light-button-background */
+  --l-btn-c: #374151; /* light-button-color */
+  --s-btn-bg: #297FE5; /* dark-button-background */
+  --s-btn-c: #FFF; /* dark-button-color */
+
+  /* text */
+  --l-text: #2B283A;
+  --l-text-accent: #F47D27;
+  --d-text: #FFFFFF;
+  --d-text-accent: #F3BF99;
+
+  /* footer */
+  --l-f-bg: #D5D4D8;
+  --d-f-bg: #161619;
+
+  /* icons */
+  --icons-color: #918E9B;
+
+  /* Typography */
+  --lg: 25px;
+  --md: 16px;
+  --sm: 14px;
+  --xs: 12px;
+  --xxs: 10.24px;
+
+  /* --ff: 'Inter', san-serif; */
+}
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+
+
+
